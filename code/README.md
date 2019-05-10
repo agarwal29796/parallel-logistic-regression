@@ -1,3 +1,3 @@
-run using 
-nvcc -o a.out main.cu
+run using \n
+nvcc -o a.out main.cu \n
 ./a.out
